@@ -1,16 +1,16 @@
 # Awesome .NET! with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,136 | 🐛 105 | 📅 2026-08-21
-[![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml) ⭐ 21,579 | 🐛 144 | 📅 2026-03-26
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,424 | 🐛 105 | 📅 2026-08-21
+[![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml) ⭐ 21,581 | 🐛 144 | 📅 2026-03-26
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge\&utm_content=badge)
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,150 | 🐛 8 | 📅 2026-08-13, [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13, [awesome-python](https://github.com/vinta/awesome-python) ⭐ 317,007 | 🐛 18 | 🌐 Python | 📅 2026-08-25, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,432 | 🐛 133 | 📅 2024-05-21 and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,303 | 🐛 0 | 📅 2026-04-09.
+Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,150 | 🐛 7 | 📅 2026-08-13, [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,675 | 🐛 85 | 📅 2026-07-13, [awesome-python](https://github.com/vinta/awesome-python) ⭐ 317,180 | 🐛 17 | 🌐 Python | 📅 2026-08-25, [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,432 | 🐛 133 | 📅 2024-05-21 and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,303 | 🐛 0 | 📅 2026-04-09.
 
-Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) ⭐ 21,579 | 🐛 144 | 📅 2026-03-26 pages first. We accept proprietary and commercial software too.
+Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) ⭐ 21,581 | 🐛 144 | 📅 2026-03-26 pages first. We accept proprietary and commercial software too.
 
-Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors) ⭐ 21,579 | 🐛 144 | 📅 2026-03-26, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors) ⭐ 21,581 | 🐛 144 | 📅 2026-03-26, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 # License
 
@@ -144,11 +144,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## API
 
-* [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,715 | 🐛 61 | 🌐 C# | 📅 2026-08-28 - .NET core API Gateway
-* [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 5,999 | 🐛 3 | 🌐 C# | 📅 2026-08-25 - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
+* [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,717 | 🐛 60 | 🌐 C# | 📅 2026-08-28 - .NET core API Gateway
+* [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) ⭐ 5,999 | 🐛 2 | 🌐 C# | 📅 2026-08-30 - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) ⭐ 5,499 | 🐛 35 | 🌐 C# | 📅 2026-08-24 - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) ⭐ 3,643 | 🐛 0 | 🌐 C# | 📅 2026-08-28 - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
-* [WTelegramClient](https://github.com/wiz0u/WTelegramClient) ⭐ 1,315 | 🐛 0 | 🌐 C# | 📅 2026-08-18 - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
+* [WTelegramClient](https://github.com/wiz0u/WTelegramClient) ⭐ 1,316 | 🐛 0 | 🌐 C# | 📅 2026-08-18 - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
 * [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) ⭐ 948 | 🐛 56 | 🌐 C# | 📅 2025-12-11 - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 * [Wissance.WebApiTookit](https://github.com/Wissance/WebApiToolkit) ⭐ 165 | 🐛 24 | 🌐 C# | 📅 2026-07-04 - A set of libraries and classes that simplify building REST APIs and gRPC services, reducing the amount of code to be written with even one line of code for a fully functional REST controller.
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) ⭐ 111 | 🐛 2 | 🌐 C# | 📅 2026-01-29 - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
@@ -158,14 +158,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Application Frameworks
 
-* [Runtime](https://github.com/dotnet/runtime) ⭐ 18,237 | 🐛 7,628 | 🌐 C# | 📅 2026-08-29 -  The runtime repo contains the library implementation (formerly called "CoreFX") for .NET (5+). It includes System.Collections, System.IO, System.Xml and many other components.
-* [ABP](https://github.com/abpframework/abp) ⭐ 14,419 | 🐛 333 | 🌐 C# | 📅 2026-08-28 - The next generation of the ASP.NET Boilerplate web application framework.
+* [Runtime](https://github.com/dotnet/runtime) ⭐ 18,238 | 🐛 7,650 | 🌐 C# | 📅 2026-08-30 -  The runtime repo contains the library implementation (formerly called "CoreFX") for .NET (5+). It includes System.Collections, System.IO, System.Xml and many other components.
+* [ABP](https://github.com/abpframework/abp) ⭐ 14,420 | 🐛 331 | 🌐 C# | 📅 2026-08-28 - The next generation of the ASP.NET Boilerplate web application framework.
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ⭐ 12,003 | 🐛 62 | 🌐 C# | 📅 2026-08-20 - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 * [Mono](https://github.com/mono/mono) ⭐ 11,467 | 🐛 2,266 | 🌐 C# | 📅 2024-08-27 - Open source ECMA CLI, C#, F#, VB and .NET implementation
-* [Orleans](https://github.com/dotnet/orleans) ⭐ 10,851 | 🐛 682 | 🌐 C# | 📅 2026-08-29 - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
+* [Orleans](https://github.com/dotnet/orleans) ⭐ 10,853 | 🐛 683 | 🌐 C# | 📅 2026-08-30 - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
 * [DotNetty](https://github.com/Azure/DotNetty) ⭐ 4,253 | 🐛 174 | 🌐 C# | 📅 2026-01-12 - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework) ⭐ 1,764 | 🐛 4 | 🌐 C# | 📅 2026-08-11 - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
-* [CSLA .NET](https://github.com/MarimerLLC/csla) ⭐ 1,344 | 🐛 34 | 🌐 C# | 📅 2026-08-24 - business layer development framework <https://cslanet.com/>
+* [CSLA .NET](https://github.com/MarimerLLC/csla) ⭐ 1,344 | 🐛 35 | 🌐 C# | 📅 2026-08-30 - business layer development framework <https://cslanet.com/>
 * [Spring.Net](https://github.com/spring-projects/spring-net) ⭐ 879 | 🐛 8 | 🌐 C# | 📅 2026-08-09 - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 * [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) ⭐ 722 | 🐛 31 | 🌐 C# | 📅 2026-08-11 - .NET Core Extensions and Helper NuGet packages
 * [peasy](https://github.com/peasy/Peasy.NET) ⭐ 523 | 🐛 0 | 🌐 C# | 📅 2024-01-29 - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
@@ -177,8 +177,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Application Templates
 
-* [.NET Boxed Templates](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,486 | 🐛 51 | 🌐 C# | 📅 2026-08-28 - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
-* [Serene](https://github.com/volkanceylan/Serenity) ⭐ 2,694 | 🐛 0 | 🌐 C# | 📅 2026-08-29 - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
+* [.NET Boxed Templates](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,486 | 🐛 51 | 🌐 C# | 📅 2026-08-30 - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+* [Serene](https://github.com/volkanceylan/Serenity) ⭐ 2,693 | 🐛 0 | 🌐 C# | 📅 2026-08-29 - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
 * [Template10](https://github.com/Windows-XAML/Template10) ⭐ 1,397 | 🐛 24 | 🌐 C# | 📅 2024-05-09 - Windows 10 templates with design patterns.
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) ⭐ 1,165 | 🐛 45 | 🌐 JavaScript | 📅 2022-11-22 - backend: .NET Core, EF Core, C#; frontend: Babel, Webpack, React, CSS Modules
 * [Side-Waffle](https://github.com/LigerShark/side-waffle) ⭐ 651 | 🐛 35 | 🌐 JavaScript | 📅 2020-04-13 - Large collection of useful templates for Web and Desktop development.
@@ -194,8 +194,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Assembly Manipulation
 
 * [Fody](https://github.com/Fody/Fody) ⭐ 4,541 | 🐛 5 | 🌐 C# | 📅 2026-08-27 - Extensible tool for weaving .NET assemblies.
-* [Mono.Cecil](https://github.com/jbevain/cecil) ⭐ 2,994 | 🐛 111 | 🌐 C# | 📅 2025-09-11 - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
-* [ILRepack](https://github.com/gluck/il-repack) ⭐ 1,362 | 🐛 30 | 🌐 C# | 📅 2026-08-29 - Open-source alternative to ILMerge.
+* [Mono.Cecil](https://github.com/jbevain/cecil) ⭐ 2,995 | 🐛 111 | 🌐 C# | 📅 2025-09-11 - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+* [ILRepack](https://github.com/gluck/il-repack) ⭐ 1,363 | 🐛 30 | 🌐 C# | 📅 2026-08-29 - Open-source alternative to ILMerge.
 
 ## Assets
 
@@ -203,7 +203,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Authentication and Authorization
 
-* [ASP.NET Core Identity](https://github.com/dotnet/aspnetcore/) ⭐ 38,400 | 🐛 4,136 | 🌐 C# | 📅 2026-08-29 - New membership system for ASP.NET applications
+* [ASP.NET Core Identity](https://github.com/dotnet/aspnetcore/) ⭐ 38,403 | 🐛 4,140 | 🌐 C# | 📅 2026-08-30 - New membership system for ASP.NET applications
 * [openiddict](https://github.com/openiddict/openiddict-core) ⭐ 5,237 | 🐛 6 | 🌐 C# | 📅 2026-08-27 - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) ⭐ 421 | 🐛 4 | 🌐 C# | 📅 2026-08-20 - SAML authentication support for ASP.NET apps
 * [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) ⭐ 110 | 🐛 42 | 🌐 C# | 📅 2026-08-27 - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **\[$]\[Free for non-commercial use]**
@@ -221,27 +221,27 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Blazor
 
-* [MudBlazor](https://github.com/MudBlazor/MudBlazor) ⭐ 10,568 | 🐛 759 | 🌐 C# | 📅 2026-08-29 - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+* [MudBlazor](https://github.com/MudBlazor/MudBlazor) ⭐ 10,569 | 🐛 761 | 🌐 C# | 📅 2026-08-29 - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
 * [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) ⭐ 6,183 | 🐛 344 | 🌐 C# | 📅 2026-08-18 - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-* [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) ⭐ 4,861 | 🐛 7 | 🌐 C# | 📅 2026-08-29 - A set of enterprise-class UI components based on Bootstrap and Blazor. -  **NOTE**: This is not affiliated with Microsoft or .NET
-* [Megabit.Blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,531 | 🐛 74 | 🌐 C# | 📅 2026-08-29 - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
+* [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) ⭐ 4,861 | 🐛 4 | 🌐 C# | 📅 2026-08-30 - A set of enterprise-class UI components based on Bootstrap and Blazor. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [Megabit.Blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,531 | 🐛 75 | 🌐 C# | 📅 2026-08-29 - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 * [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) ⭐ 1,327 | 🐛 43 | 🌐 C# | 📅 2026-06-12 - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 * [blazork8s](https://github.com/weibaohui/blazork8s) ⭐ 195 | 🐛 0 | 🌐 C# | 📅 2025-02-11 - k8s management ui in blazor and .NET Core.
 
 ## Blockchain
 
-* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,589 | 🐛 354 | 🌐 C# | 📅 2026-08-29 - full Ethereum client in .NET Core
+* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,589 | 🐛 357 | 🌐 C# | 📅 2026-08-30 - full Ethereum client in .NET Core
 
 ## Build Automation
 
-* [MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,547 | 🐛 1,693 | 🌐 C# | 📅 2026-08-28 - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
-* [Cake](https://github.com/cake-build/cake) ⭐ 4,187 | 🐛 248 | 🌐 C# | 📅 2026-07-17 - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
-* [Nuke](https://github.com/nuke-build/nuke) ⭐ 3,748 | 🐛 122 | 🌐 C# | 📅 2025-12-02 - Cross-platform build automation system
-* [Psake](https://github.com/psake/psake) ⭐ 1,617 | 🐛 9 | 🌐 PowerShell | 📅 2026-08-29 - .NET-based build automation tool written in PowerShell
+* [MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,547 | 🐛 1,694 | 🌐 C# | 📅 2026-08-30 - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
+* [Cake](https://github.com/cake-build/cake) ⭐ 4,188 | 🐛 248 | 🌐 C# | 📅 2026-07-17 - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
+* [Nuke](https://github.com/nuke-build/nuke) ⭐ 3,747 | 🐛 122 | 🌐 C# | 📅 2025-12-02 - Cross-platform build automation system
+* [Psake](https://github.com/psake/psake) ⭐ 1,617 | 🐛 9 | 🌐 PowerShell | 📅 2026-08-30 - .NET-based build automation tool written in PowerShell
 * [FAKE](https://github.com/fsharp/FAKE) ⭐ 1,323 | 🐛 58 | 🌐 F# | 📅 2026-07-13 - F# Make, a cross-platform build automation system
-* [FlubuCore](https://github.com/dotnetcore/FlubuCore) ⭐ 938 | 🐛 31 | 🌐 C# | 📅 2026-03-25 -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code. - **NOTE**: This is not affiliated with Microsoft or .NET
+* [FlubuCore](https://github.com/dotnetcore/FlubuCore) ⭐ 937 | 🐛 31 | 🌐 C# | 📅 2026-03-25 -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code. - **NOTE**: This is not affiliated with Microsoft or .NET
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) ⭐ 725 | 🐛 0 | 🌐 PowerShell | 📅 2026-01-28 - PowerShell build and test automation tool inspired by Psake.
-* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) ⭐ 548 | 🐛 16 | 🌐 C# | 📅 2026-08-29 - Write your pipelines in C#
+* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) ⭐ 548 | 🐛 46 | 🌐 C# | 📅 2026-08-30 - Write your pipelines in C#
 * [Nake](https://github.com/yevhen/Nake) ⭐ 243 | 🐛 12 | 🌐 C# | 📅 2025-12-15 - Magic script-based C# task runner
 
 ## Business Intelligence
@@ -251,7 +251,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Caching
 
-* [FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,899 | 🐛 37 | 🌐 C# | 📅 2026-08-26 - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+* [FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,903 | 🐛 37 | 🌐 C# | 📅 2026-08-26 - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 * [Akavache](https://github.com/reactiveui/Akavache) ⭐ 2,553 | 🐛 8 | 🌐 C# | 📅 2026-08-29 - An asynchronous, persistent key-value store
 * [CacheManager](https://github.com/MichaCo/CacheManager) ⭐ 2,420 | 🐛 13 | 🌐 C# | 📅 2026-02-18 - A common interface and abstraction layer for caching.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-08-28 - A common interface with in memory, Redis and hybrid implementations.
@@ -267,14 +267,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Chat
 
-* [Stream](https://github.com/GetStream/stream-chat-net) ⭐ 75 | 🐛 8 | 🌐 C# | 📅 2026-08-24 Official .NET API client for Stream Chat, a service for building chat applications.
+* [Stream](https://github.com/GetStream/stream-chat-net) ⭐ 75 | 🐛 9 | 🌐 C# | 📅 2026-08-24 Official .NET API client for Stream Chat, a service for building chat applications.
 
 ## CLI
 
 * [spectre.console](https://github.com/spectresystems/spectre.console) ⭐ 11,602 | 🐛 184 | 🌐 C# | 📅 2026-08-27 - A library that makes it easier to create beautiful console applications.
-* [Gui.cs](https://github.com/migueldeicaza/gui.cs) ⭐ 11,186 | 🐛 51 | 🌐 C# | 📅 2026-08-27 - Terminal UI toolkit for .NET.
-* [CliWrap](https://github.com/Tyrrrz/CliWrap) ⭐ 4,997 | 🐛 3 | 🌐 C# | 📅 2026-08-19 - Wrapper for command line interfaces.
-* [Command Line Parser](https://github.com/commandlineparser/commandline) ⭐ 4,816 | 🐛 325 | 🌐 C# | 📅 2024-02-29 - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
+* [Gui.cs](https://github.com/migueldeicaza/gui.cs) ⭐ 11,193 | 🐛 51 | 🌐 C# | 📅 2026-08-27 - Terminal UI toolkit for .NET.
+* [CliWrap](https://github.com/Tyrrrz/CliWrap) ⭐ 4,996 | 🐛 3 | 🌐 C# | 📅 2026-08-19 - Wrapper for command line interfaces.
+* [Command Line Parser](https://github.com/commandlineparser/commandline) ⭐ 4,818 | 🐛 325 | 🌐 C# | 📅 2024-02-29 - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) ⭐ 2,275 | 🐛 7 | 🌐 C# | 📅 2026-07-01 - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 * [CliFx](https://github.com/Tyrrrz/CliFx) ⭐ 1,615 | 🐛 5 | 🌐 C# | 📅 2026-08-01 - Declarative framework for building command line interfaces.
 * [CommandDotNet](https://github.com/bilal-fazlani/commanddotnet) ⭐ 615 | 🐛 23 | 🌐 C# | 📅 2025-11-24 - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.
@@ -285,12 +285,12 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## CLR
 
-* [Runtime](https://github.com/dotnet/runtime) ⭐ 18,237 | 🐛 7,628 | 🌐 C# | 📅 2026-08-29 - Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like `System.Linq` and `System.Text.Json`.
+* [Runtime](https://github.com/dotnet/runtime) ⭐ 18,238 | 🐛 7,650 | 🌐 C# | 📅 2026-08-30 - Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like `System.Linq` and `System.Text.Json`.
 
 ## CMS
 
-* [Umbraco](https://github.com/umbraco/Umbraco-CMS) ⭐ 5,237 | 🐛 493 | 🌐 C# | 📅 2026-08-28 - Umbraco is a free open source Content Management System built on the ASP.NET platform
-* [Squidex](https://github.com/Squidex/squidex) ⭐ 2,509 | 🐛 4 | 🌐 C# | 📅 2026-08-26 ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
+* [Umbraco](https://github.com/umbraco/Umbraco-CMS) ⭐ 5,237 | 🐛 493 | 🌐 C# | 📅 2026-08-30 - Umbraco is a free open source Content Management System built on the ASP.NET platform
+* [Squidex](https://github.com/Squidex/squidex) ⭐ 2,508 | 🐛 4 | 🌐 C# | 📅 2026-08-26 ![GitHub stars](https://img.shields.io/github/stars/Squidex/squidex?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Squidex/squidex?style=flat-square\&cacheSeconds=86400) - Open source headless CMS and content management hub.  <https://squidex.io>
 * [Orchard ](https://github.com/OrchardCMS/Orchard) ⭐ 2,417 | 🐛 1,834 | 🌐 C# | 📅 2026-08-24 - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
 * [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) ⭐ 2,191 | 🐛 100 | 🌐 C# | 📅 2026-08-09 - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. <https://piranhacms.org>
 * [FluentCMS](https://github.com/fluentcms/FluentCMS) ⭐ 563 | 🐛 39 | 🌐 C# | 📅 2026-03-30 - FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS)
@@ -301,7 +301,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Code Analysis and Metrics
 
-* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) ⭐ 11,485 | 🐛 180 | 🌐 C# | 📅 2026-08-16 - Powerful .NET library for benchmarking.
+* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) ⭐ 11,484 | 🐛 180 | 🌐 C# | 📅 2026-08-30 - Powerful .NET library for benchmarking.
 * [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) ⭐ 1,672 | 🐛 1,055 | 📅 2026-08-29 - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
 * [NsDepCop](https://github.com/realvizu/NsDepCop) ⭐ 297 | 🐛 14 | 🌐 C# | 📅 2026-07-25 - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-08-07 - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
@@ -318,16 +318,16 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Compilers, Transpilers and Languages
 
-* [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,632 | 🐛 6,296 | 🌐 C# | 📅 2026-08-29 - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
-* [Lib.Harmony](https://github.com/pardeike/Harmony) ⭐ 6,632 | 🐛 4 | 🌐 C# | 📅 2026-08-15 - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.
-* [P](https://github.com/p-org/P) ⭐ 3,670 | 🐛 30 | 🌐 C# | 📅 2026-08-21 - P is a language for asynchronous event-driven programming.
-* [Fable](https://github.com/fable-compiler/Fable) ⭐ 3,145 | 🐛 168 | 🌐 F# | 📅 2026-08-29 - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
-* [Iron Python](https://github.com/IronLanguages/ironpython3) ⭐ 2,759 | 🐛 313 | 🌐 C# | 📅 2026-08-17 - A Python 3 implementation that is integrated with the .NET framework.
-* [PeachPie](https://github.com/peachpiecompiler/peachpie) ⭐ 2,483 | 🐛 90 | 🌐 C# | 📅 2026-06-09 - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+* [Roslyn](https://github.com/dotnet/roslyn) ⭐ 20,631 | 🐛 6,297 | 🌐 C# | 📅 2026-08-30 - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
+* [Lib.Harmony](https://github.com/pardeike/Harmony) ⭐ 6,633 | 🐛 4 | 🌐 C# | 📅 2026-08-15 - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.
+* [P](https://github.com/p-org/P) ⭐ 3,671 | 🐛 30 | 🌐 C# | 📅 2026-08-21 - P is a language for asynchronous event-driven programming.
+* [Fable](https://github.com/fable-compiler/Fable) ⭐ 3,147 | 🐛 169 | 🌐 F# | 📅 2026-08-30 - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
+* [Iron Python](https://github.com/IronLanguages/ironpython3) ⭐ 2,759 | 🐛 314 | 🌐 C# | 📅 2026-08-17 - A Python 3 implementation that is integrated with the .NET framework.
+* [PeachPie](https://github.com/peachpiecompiler/peachpie) ⭐ 2,484 | 🐛 90 | 🌐 C# | 📅 2026-06-09 - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 * [F#](https://github.com/fsharp/fsharp/) ⚠️ Archived - The F# programming language empowers everyone to write succinct, robust, and performant code
 * [Rust](https://github.com/FractalFir/rustc_codegen_clr) ⭐ 2,052 | 🐛 17 | 🌐 Rust | 📅 2025-10-14 - Experimental Rust compiler for .NET.
 * [ClojureCLR](https://github.com/clojure/clojure-clr) ⭐ 1,653 | 🐛 0 | 🌐 C# | 📅 2026-07-20 - A port of Clojure to the CLR in C#
-* [Lua-C#](https://github.com/nuskey8/Lua-CSharp) ⭐ 849 | 🐛 48 | 🌐 C# | 📅 2026-08-09 - A Lua implementation on .NET in C#
+* [Lua-C#](https://github.com/nuskey8/Lua-CSharp) ⭐ 848 | 🐛 48 | 🌐 C# | 📅 2026-08-09 - A Lua implementation on .NET in C#
 * [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) ⭐ 841 | 🐛 34 | 🌐 C# | 📅 2026-06-30 - A polyglot REPL built on .NET Interactive
 * [Nemerle](https://github.com/rsdn/nemerle) ⭐ 641 | 🐛 227 | 🌐 Nemerle | 📅 2026-06-20 - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented, and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [PascalABC.NET](https://github.com/pascalabcnet/pascalabcnet) ⭐ 451 | 🐛 192 | 🌐 C# | 📅 2026-08-22 Pascal implementation on .NET.
@@ -341,12 +341,12 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Compression
 
-* [SharpCompress](https://github.com/adamhathcock/sharpcompress) ⭐ 2,580 | 🐛 294 | 🌐 C# | 📅 2026-08-27 - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
-* [FastLZMA2NET](https://github.com/kingsznhone/FastLZMA2Net) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-04-04 - A .NET Wrapper of [Fast LZMA2 Algorithm](https://github.com/conor42/fast-lzma2) ⭐ 344 | 🐛 5 | 🌐 C | 📅 2026-08-08.
+* [SharpCompress](https://github.com/adamhathcock/sharpcompress) ⭐ 2,579 | 🐛 294 | 🌐 C# | 📅 2026-08-27 - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
+* [FastLZMA2NET](https://github.com/kingsznhone/FastLZMA2Net) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-04-04 - A .NET Wrapper of [Fast LZMA2 Algorithm](https://github.com/conor42/fast-lzma2) ⭐ 345 | 🐛 5 | 🌐 C | 📅 2026-08-08.
 
 ## Configuration
 
-* [AgileConfig](https://github.com/dotnetcore/AgileConfig) ⭐ 1,621 | 🐛 34 | 🌐 C# | 📅 2026-08-29 - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [AgileConfig](https://github.com/dotnetcore/AgileConfig) ⭐ 1,621 | 🐛 34 | 🌐 C# | 📅 2026-08-30 - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
 
 ## Continuous Integration
 
@@ -375,7 +375,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [LiteDB](https://github.com/mbdavid/LiteDB) ⭐ 9,458 | 🐛 759 | 🌐 C# | 📅 2026-08-21 - A .NET NoSQL Document Store in a single data file - <https://www.litedb.org>
 * [Event Store](https://github.com/EventStore/EventStore) ⭐ 5,849 | 🐛 151 | 🌐 C# | 📅 2026-08-28 - The open-source, functional database with Complex Event Processing in JavaScript
 * [Ignite](https://github.com/apache/ignite) ⭐ 5,080 | 🐛 879 | 🌐 Java | 📅 2026-08-28 - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
-* [RavenDB](https://github.com/ravendb/ravendb) ⭐ 3,994 | 🐛 74 | 🌐 C# | 📅 2026-08-28 - A LINQ-enabled document database for .NET
+* [RavenDB](https://github.com/ravendb/ravendb) ⭐ 3,995 | 🐛 74 | 🌐 C# | 📅 2026-08-30 - A LINQ-enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) ⭐ 3,450 | 🐛 4 | 🌐 C# | 📅 2026-08-27 - PostgreSQL as a document database and event store for .NET applications
 * [Yessql](https://github.com/sebastienros/yessql) ⭐ 1,360 | 🐛 150 | 🌐 C# | 📅 2026-08-24 - A .NET document database working on any RDBMS
 * [Realm Xamarin](https://github.com/realm/realm-dotnet) ⭐ 1,322 | 🐛 162 | 🌐 C# | 📅 2026-01-21 - A fast, easy-to-use alternative to SQLite & ORMs - <https://realm.io/docs/dotnet/latest/>
@@ -407,7 +407,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Decompilation
 
 * [dnSpy](https://github.com/0xd4d/dnSpy) ⚠️ Archived - open-source .NET assembly browser, editor, decompiler and debugger
-* [dnSpyEx](https://github.com/dnSpyEx/dnSpy) ⭐ 10,987 | 🐛 145 | 🌐 C# | 📅 2026-08-25 - Unofficial revival of dnSpy
+* [dnSpyEx](https://github.com/dnSpyEx/dnSpy) ⭐ 10,997 | 🐛 145 | 🌐 C# | 📅 2026-08-25 - Unofficial revival of dnSpy
 * [ILSpy](https://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code. It can create Visual Studio solutions based on the original binary files in a straight-forward way. **\[Proprietary]** **\[Free]**
 
@@ -421,13 +421,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Desktop
 
-* [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) ⭐ 1,509 | 🐛 15 | 🌐 C# | 📅 2026-08-12 - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+* [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) ⭐ 1,512 | 🐛 15 | 🌐 C# | 📅 2026-08-12 - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
 
-* [Orleans](https://github.com/dotnet/orleans) ⭐ 10,851 | 🐛 682 | 🌐 C# | 📅 2026-08-29 - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
-* [Akka.net](https://github.com/akkadotnet/akka.net) ⭐ 5,081 | 🐛 448 | 🌐 C# | 📅 2026-08-28 - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community-driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
-* [.NEXT Raft](https://github.com/dotnet/dotNext) ⭐ 1,958 | 🐛 0 | 🌐 C# | 📅 2026-08-28 - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
+* [Orleans](https://github.com/dotnet/orleans) ⭐ 10,853 | 🐛 683 | 🌐 C# | 📅 2026-08-30 - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+* [Akka.net](https://github.com/akkadotnet/akka.net) ⭐ 5,082 | 🐛 446 | 🌐 C# | 📅 2026-08-30 - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community-driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
+* [.NEXT Raft](https://github.com/dotnet/dotNext) ⭐ 1,958 | 🐛 1 | 🌐 C# | 📅 2026-08-28 - Raft implementation for .NET and ASP.NET Core that allows to build clustered microservices powered by distributed consensus and replication
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) ⭐ 1,897 | 🐛 23 | 🌐 C# | 📅 2026-03-13 - Proto Actor - Ultra fast distributed actors for Golang and C#
 * [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 507 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API available for F# called Orleankka.FSharp.
 * [Zebus](https://github.com/Abc-Arbitrage/Zebus) ⭐ 332 | 🐛 9 | 🌐 C# | 📅 2026-08-18 - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
@@ -438,8 +438,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [DocFX](https://github.com/dotnet/docfx) ⭐ 4,449 | 🐛 453 | 🌐 C# | 📅 2026-08-27 - Tools for building and publishing API documentation for .NET projects
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) ⭐ 3,070 | 🐛 355 | 🌐 C# | 📅 2022-03-03 - Seamlessly adds a Swagger to Web API projects.
-* [Sandcastle](https://github.com/EWSoftware/SHFB) ⭐ 2,250 | 🐛 11 | 🌐 C# | 📅 2026-06-27 - Sandcastle Help File Builder similar to NDoc
-* [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) ⭐ 1,159 | 🐛 51 | 🌐 C# | 📅 2026-07-14 - Source browser website generator that powers <https://referencesource.microsoft.com>
+* [Sandcastle](https://github.com/EWSoftware/SHFB) ⭐ 2,251 | 🐛 11 | 🌐 C# | 📅 2026-06-27 - Sandcastle Help File Builder similar to NDoc
+* [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) ⭐ 1,158 | 🐛 51 | 🌐 C# | 📅 2026-07-14 - Source browser website generator that powers <https://referencesource.microsoft.com>
 * [DocNet](https://github.com/FransBouma/DocNet) ⭐ 254 | 🐛 10 | 🌐 C# | 📅 2025-01-02 - Your friendly static documentation generator, using markdown files to build the content.
 * [HubDocs](https://github.com/mberrishdev/HubDocs) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-04-19 - Swagger-like UI tool like Swagger, but for SignalR hubs — auto-discover your hubs, explore methods, invoke calls, and preview live client messages..
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
@@ -451,17 +451,17 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) ⭐ 4,415 | 🐛 172 | 🌐 C# | 📅 2026-06-08 - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 * [SmartStoreNET](https://github.com/smartstore/Smartstore) ⭐ 1,521 | 🐛 528 | 🌐 C# | 📅 2026-08-29 - Free ASP.NET Core MVC e-commerce Shopping Cart Solution
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) ⭐ 1,517 | 🐛 19 | 🌐 C# | 📅 2026-08-29 - Stripe.net is a full service .NET API for <https://stripe.com/>
-* [GrandNode](https://github.com/grandnode/grandnode2) ⭐ 1,326 | 🐛 85 | 🌐 C# | 📅 2026-08-29 - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
-* [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) ⭐ 1,310 | 🐛 62 | 🌐 C# | 📅 2026-08-28 - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. <https://virtocommerce.com>
+* [GrandNode](https://github.com/grandnode/grandnode2) ⭐ 1,324 | 🐛 86 | 🌐 C# | 📅 2026-08-30 - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
+* [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) ⭐ 1,310 | 🐛 62 | 🌐 C# | 📅 2026-08-29 - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. <https://virtocommerce.com>
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) ⭐ 126 | 🐛 49 | 🌐 C# | 📅 2026-08-27 - The official Adyen Payment API Library for .NET
 
 ## Emulators
 
-* [Blzhawk](https://github.com/TASEmulators/BizHawk) ⭐ 2,742 | 🐛 802 | 🌐 C# | 📅 2026-08-18 - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* [Blzhawk](https://github.com/TASEmulators/BizHawk) ⭐ 2,744 | 🐛 803 | 🌐 C# | 📅 2026-08-18 - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
 
 ## Environment Management
 
-* [Dotnet CLI](https://github.com/dotnet/sdk) ⭐ 3,195 | 🐛 2,506 | 🌐 C# | 📅 2026-08-29 - The cross-platform .NET Core command-line toolchain utility.
+* [Dotnet CLI](https://github.com/dotnet/sdk) ⭐ 3,192 | 🐛 2,504 | 🌐 C# | 📅 2026-08-30 - The cross-platform .NET Core command-line toolchain utility.
 
 ## ETL
 
@@ -470,8 +470,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Event aggregator and messenger
 
-* [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,858 | 🐛 2 | 🌐 C# | 📅 2026-07-02 - Simple, unambitious mediator implementation in .NET
-* [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,564 | 🐛 13 | 🌐 C# | 📅 2026-07-31 - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET
+* [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,859 | 🐛 2 | 🌐 C# | 📅 2026-07-02 - Simple, unambitious mediator implementation in .NET
+* [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,565 | 🐛 13 | 🌐 C# | 📅 2026-07-31 - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET
 * [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) ⭐ 535 | 🐛 11 | 🌐 C# | 📅 2026-05-11 - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
 * [LiteBus](https://github.com/litenova/LiteBus) ⭐ 233 | 🐛 3 | 🌐 C# | 📅 2026-08-27 -An easy-to-use and ambitious in-process mediator providing the foundation to implement Command Query Separation (CQS)
 
@@ -490,20 +490,20 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Functional programming
 
-* [language-ext](https://github.com/louthy/language-ext) ⭐ 7,084 | 🐛 15 | 🌐 C# | 📅 2026-07-29 - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
-* [MoreLinq](https://github.com/MoreLinq/MoreLinq) ⭐ 3,834 | 🐛 109 | 🌐 C# | 📅 2025-11-25 - Provides extra methods to LINQ to Objects.
+* [language-ext](https://github.com/louthy/language-ext) ⭐ 7,082 | 🐛 15 | 🌐 C# | 📅 2026-07-29 - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
+* [MoreLinq](https://github.com/MoreLinq/MoreLinq) ⭐ 3,835 | 🐛 109 | 🌐 C# | 📅 2025-11-25 - Provides extra methods to LINQ to Objects.
 
 ## Game
 
-* [MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,362 | 🐛 756 | 🌐 C# | 📅 2026-08-27 - One framework for creating powerful cross-platform games
-* [FNA](https://github.com/FNA-XNA/FNA) ⭐ 3,036 | 🐛 62 | 🌐 C# | 📅 2026-08-28 - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
-* [BEPUphysics](https://github.com/bepu/bepuphysics2) ⭐ 2,942 | 🐛 70 | 🌐 C# | 📅 2026-08-17 - BEPUphysics is a pure C# 3D physics library
+* [MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,368 | 🐛 757 | 🌐 C# | 📅 2026-08-27 - One framework for creating powerful cross-platform games
+* [FNA](https://github.com/FNA-XNA/FNA) ⭐ 3,036 | 🐛 62 | 🌐 C# | 📅 2026-08-30 - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
+* [BEPUphysics](https://github.com/bepu/bepuphysics2) ⭐ 2,943 | 🐛 70 | 🌐 C# | 📅 2026-08-30 - BEPUphysics is a pure C# 3D physics library
 * [Nez](https://github.com/prime31/Nez) ⭐ 2,065 | 🐛 52 | 🌐 C# | 📅 2026-07-01 - Nez is a free 2D-focused framework that works with MonoGame and FNA
-* [osu!framework](https://github.com/ppy/osu-framework) ⭐ 1,998 | 🐛 474 | 🌐 C# | 📅 2026-08-24 - A 2D application/game written with amazing games in mind.
+* [osu!framework](https://github.com/ppy/osu-framework) ⭐ 1,998 | 🐛 473 | 🌐 C# | 📅 2026-08-24 - A 2D application/game written with amazing games in mind.
 * [Duality](https://github.com/AdamsLair/duality) ⚠️ Archived - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
-* [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 935 | 🐛 18 | 🌐 C# | 📅 2026-08-25 - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+* [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 936 | 🐛 18 | 🌐 C# | 📅 2026-08-25 - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [Foster](https://github.com/FosterFramework/Foster) ⭐ 858 | 🐛 2 | 🌐 C# | 📅 2026-08-27 - Foster is a small cross-platform 2D game framework in C#.
-* [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 759 | 🐛 40 | 🌐 C# | 📅 2026-07-03 -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+* [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 760 | 🐛 40 | 🌐 C# | 📅 2026-07-03 -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 206 | 🐛 7 | 🌐 C# | 📅 2026-08-22 - A C# port of Box2D, a 2D physics engine for games, servers, and Unity3D
 * [Stride Game Engine](https://stride3d.net/) - Stride Game Engine is a 2D/3D cross-platform game engine featuring a scene editor, particles, physically based rendering (PBR), scripting, and much more
 * [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free C# component-based modern game engine which allows you to create cross-platform games supporting Kinect, Oculus Rift, Vuforia, Cardboard, Leap Motion and much more. **\[Free]\[Proprietary]**
@@ -518,21 +518,21 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Git Tools
 
-* [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) ⭐ 9,232 | 🐛 179 | 🌐 C# | 📅 2026-08-28 - Helps solving issues of credentials
+* [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) ⭐ 9,235 | 🐛 178 | 🌐 C# | 📅 2026-08-28 - Helps solving issues of credentials
 * [GitExtensions](https://github.com/gitextensions/gitextensions) ⭐ 8,540 | 🐛 595 | 🌐 C# | 📅 2026-08-28 - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. <https://gitextensions.github.io/>
-* [posh-git](https://github.com/dahlbyk/posh-git) ⭐ 8,269 | 🐛 117 | 🌐 PowerShell | 📅 2024-09-02 - A PowerShell environment for Git
+* [posh-git](https://github.com/dahlbyk/posh-git) ⭐ 8,270 | 🐛 117 | 🌐 PowerShell | 📅 2024-09-02 - A PowerShell environment for Git
 * [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) ⭐ 3,458 | 🐛 455 | 🌐 C# | 📅 2026-07-23 - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.
-* [GitVersion](https://github.com/GitTools/GitVersion) ⭐ 3,143 | 🐛 39 | 🌐 C# | 📅 2026-08-29 - Generate a Semantic Version Number based on the state of your Git repository
+* [GitVersion](https://github.com/GitTools/GitVersion) ⭐ 3,143 | 🐛 37 | 🌐 C# | 📅 2026-08-30 - Generate a Semantic Version Number based on the state of your Git repository
 * [Husky.Net](https://github.com/alirezanet/Husky.Net) ⭐ 851 | 🐛 13 | 🌐 C# | 📅 2026-04-30 - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
 ## Graphics
 
-* [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) ⭐ 5,432 | 🐛 61 | 🌐 C# | 📅 2026-07-20 - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
-* [Silk.NET](https://github.com/dotnet/Silk.NET) ⭐ 5,178 | 🐛 103 | 🌐 C# | 📅 2026-08-29 - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
+* [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) ⭐ 5,437 | 🐛 61 | 🌐 C# | 📅 2026-07-20 - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+* [Silk.NET](https://github.com/dotnet/Silk.NET) ⭐ 5,181 | 🐛 103 | 🌐 C# | 📅 2026-08-30 - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
 * [OpenTK](https://github.com/opentk/opentk) ⭐ 3,537 | 🐛 62 | 🌐 C# | 📅 2026-08-05 - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 * [Veldrid](https://github.com/mellinoe/veldrid) ⭐ 2,701 | 🐛 159 | 🌐 C# | 📅 2026-03-17 - A low-level, portable graphics and compute library for .NET
-* [Helix Toolkit](https://github.com/helix-toolkit/helix-toolkit) ⭐ 2,276 | 🐛 313 | 🌐 C# | 📅 2026-08-08 - Helix Toolkit is a collection of 3D components for .NET
-* [VectSharp](https://github.com/arklumpus/VectSharp) ⭐ 312 | 🐛 6 | 🌐 C# | 📅 2025-11-15 - .NET library to create vector graphics and text, and then export it to PDF, SVG and raster image formats.
+* [Helix Toolkit](https://github.com/helix-toolkit/helix-toolkit) ⭐ 2,277 | 🐛 313 | 🌐 C# | 📅 2026-08-08 - Helix Toolkit is a collection of 3D components for .NET
+* [VectSharp](https://github.com/arklumpus/VectSharp) ⭐ 311 | 🐛 6 | 🌐 C# | 📅 2025-11-15 - .NET library to create vector graphics and text, and then export it to PDF, SVG and raster image formats.
 * [Oxyplot](https://github.com/oxyplot/) - OxyPlot is a cross-platform plotting library for .NET
 * [Aspose.Drawing](https://products.aspose.com/drawing/net) - Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images, with System.Drawing compatible API. **\[$]**
 * [ScottPlot](https://swharden.com/scottplot/) - A plotting library to interactively displays large datasets. Line plots, bar charts, pie graphs, scatter plots, and more. It supports WinForms, WPF, Avalonia, Console.
@@ -540,8 +540,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## GraphQL
 
-* [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) ⭐ 5,992 | 🐛 135 | 🌐 C# | 📅 2026-08-23 - Implementation of [Facebook's GraphQL](https://github.com/graphql/graphql-spec) ⭐ 14,589 | 🐛 196 | 🌐 JavaScript | 📅 2026-08-18 in .Net
-* [HotChocolate](https://github.com/ChilliCream/hotchocolate) ⭐ 5,752 | 🐛 374 | 🌐 C# | 📅 2026-08-29 - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
+* [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) ⭐ 5,991 | 🐛 135 | 🌐 C# | 📅 2026-08-23 - Implementation of [Facebook's GraphQL](https://github.com/graphql/graphql-spec) ⭐ 14,589 | 🐛 196 | 🌐 JavaScript | 📅 2026-08-18 in .Net
+* [HotChocolate](https://github.com/ChilliCream/hotchocolate) ⭐ 5,753 | 🐛 377 | 🌐 C# | 📅 2026-08-30 - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
 * [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) ⭐ 462 | 🐛 8 | 🌐 C# | 📅 2026-08-18 - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
 * [ZeroQL](https://github.com/byme8/ZeroQL) ⭐ 322 | 🐛 13 | 🌐 C# | 📅 2026-08-04 - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
@@ -549,8 +549,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ### GUI - Framework
 
-* [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,419 | 🐛 1,890 | 🌐 C# | 📅 2026-08-29 - A multi-platform .NET UI framework (formerly known as Perspex).
-* [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) ⭐ 8,056 | 🐛 2,276 | 🌐 C++ | 📅 2026-08-29 - The Windows UI Library (WinUI) provides official native Microsoft UI controls and features for Windows UWP apps.
+* [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,421 | 🐛 1,887 | 🌐 C# | 📅 2026-08-30 - A multi-platform .NET UI framework (formerly known as Perspex).
+* [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) ⭐ 8,140 | 🐛 2,281 | 🌐 C++ | 📅 2026-08-30 - The Windows UI Library (WinUI) provides official native Microsoft UI controls and features for Windows UWP apps.
 * [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) ⚠️ Archived - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
 * [Eto.Forms](https://github.com/picoe/Eto) ⭐ 3,964 | 🐛 359 | 🌐 C# | 📅 2026-08-28 - Cross-platform GUI framework for desktop and mobile applications in .NET and Mono
 * [Qml.Net](https://github.com/qmlnet/qmlnet) ⭐ 1,412 | 🐛 52 | 🌐 C# | 📅 2022-12-08 - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
@@ -565,7 +565,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ### GUI - Themed Control Toolkits
 
-* [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) ⭐ 9,820 | 🐛 121 | 🌐 C# | 📅 2026-08-25 - Toolkit for creating Metro-styled WPF apps
+* [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) ⭐ 9,820 | 🐛 125 | 🌐 C# | 📅 2026-08-25 - Toolkit for creating Metro-styled WPF apps
 * [HandyControl](https://github.com/HandyOrg/HandyControl) ⭐ 7,175 | 🐛 328 | 🌐 C# | 📅 2026-08-11 - Contains some simple and commonly used WPF controls
 * [UWP Community Toolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) ⚠️ Archived - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) ⭐ 3,041 | 🐛 149 | 🌐 C# | 📅 2024-07-15 - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
@@ -585,7 +585,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## HTML and CSS
 
-* [AngleSharp](https://github.com/AngleSharp/AngleSharp) ⭐ 5,531 | 🐛 6 | 🌐 C# | 📅 2026-08-23 - Complete HTML5 DOM and CSS3 OM construction
+* [AngleSharp](https://github.com/AngleSharp/AngleSharp) ⭐ 5,530 | 🐛 6 | 🌐 C# | 📅 2026-08-23 - Complete HTML5 DOM and CSS3 OM construction
 * [dotless](https://github.com/dotless/dotless) ⭐ 695 | 🐛 86 | 🌐 C# | 📅 2026-05-22 - .NET port of the Ruby Less CSS lib <http://www.dotlesscss.org>
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) ⭐ 378 | 🐛 5 | 🌐 C# | 📅 2026-08-19 - CSS3 parser library for C#
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) ⭐ 88 | 🐛 2 | 🌐 C++ | 📅 2026-02-03 - .NET wrapper around the [libSass](https://sass-lang.com/libsass) library with the ability to support a virtual file system
@@ -593,10 +593,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## HTTP
 
-* [RestSharp](https://github.com/restsharp/RestSharp) ⭐ 9,825 | 🐛 39 | 🌐 C# | 📅 2026-06-02 - Simple REST and HTTP API client for .NET
-* [Refit](https://github.com/reactiveui/refit) ⭐ 9,564 | 🐛 4 | 🌐 C# | 📅 2026-08-29 - The automatic type-safe REST library for Xamarin and .NET
+* [RestSharp](https://github.com/restsharp/RestSharp) ⭐ 9,826 | 🐛 39 | 🌐 C# | 📅 2026-06-02 - Simple REST and HTTP API client for .NET
+* [Refit](https://github.com/reactiveui/refit) ⭐ 9,563 | 🐛 4 | 🌐 C# | 📅 2026-08-29 - The automatic type-safe REST library for Xamarin and .NET
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) ⭐ 2,137 | 🐛 14 | 🌐 C# | 📅 2026-07-17 An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-* [Fluxzy.Core](https://github.com/haga-rak/fluxzy.core) ⭐ 364 | 🐛 10 | 🌐 C# | 📅 2026-08-28 - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
+* [Fluxzy.Core](https://github.com/haga-rak/fluxzy.core) ⭐ 364 | 🐛 9 | 🌐 C# | 📅 2026-08-28 - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
 * [Apizr](https://github.com/Respawnsive/Apizr) ⭐ 175 | 🐛 5 | 🌐 C# | 📅 2026-08-27 Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 * [NotoriousClient](https://github.com/Notorious-Coding/Notorious-Client) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2026-07-02 – Strongly-typed, extensible HTTP client with fluent request builder, streaming & multipart. Built on .NET's HttpRequestMessage.
 * [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
@@ -615,9 +615,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Image Processing
 
-* [ImageSharp](https://github.com/SixLabors/ImageSharp) ⭐ 8,037 | 🐛 19 | 🌐 C# | 📅 2026-08-24 - Fully managed cross-platform library for processing of image files.
-* [OpenCvSharp](https://github.com/shimat/opencvsharp/) ⭐ 6,075 | 🐛 8 | 🌐 C# | 📅 2026-08-24 - Cross platform wrapper of OpenCV for .NET Framework.
-* [Magick.NET](https://github.com/dlemstra/Magick.NET) ⭐ 3,974 | 🐛 54 | 🌐 C# | 📅 2026-08-29 - .NET wrapper for the ImageMagick library.
+* [ImageSharp](https://github.com/SixLabors/ImageSharp) ⭐ 8,036 | 🐛 19 | 🌐 C# | 📅 2026-08-24 - Fully managed cross-platform library for processing of image files.
+* [OpenCvSharp](https://github.com/shimat/opencvsharp/) ⭐ 6,077 | 🐛 8 | 🌐 C# | 📅 2026-08-24 - Cross platform wrapper of OpenCV for .NET Framework.
+* [Magick.NET](https://github.com/dlemstra/Magick.NET) ⭐ 3,974 | 🐛 54 | 🌐 C# | 📅 2026-08-30 - .NET wrapper for the ImageMagick library.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) ⭐ 1,069 | 🐛 69 | 🌐 C# | 📅 2026-07-15 - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 * [MagicScaler](https://github.com/saucecontrol/PhotoSauce) ⭐ 734 | 🐛 30 | 🌐 C# | 📅 2025-04-10 - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 * [PixelViewer](https://github.com/carina-studio/PixelViewer) ⭐ 406 | 🐛 12 | 🌐 C# | 📅 2026-08-29 - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
@@ -630,7 +630,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Install tools
 
-* [Chocolatey](https://github.com/chocolatey/choco) ⭐ 11,495 | 🐛 517 | 🌐 C# | 📅 2026-08-19 - like `yum` or `apt-get`, but for Windows.
+* [Chocolatey](https://github.com/chocolatey/choco) ⭐ 11,493 | 🐛 518 | 🌐 C# | 📅 2026-08-19 - like `yum` or `apt-get`, but for Windows.
 * [Squirrel](https://github.com/squirrel/squirrel.windows) ⭐ 7,980 | 🐛 423 | 🌐 C++ | 📅 2024-07-24 - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
 * [Wix Toolset](https://github.com/wixtoolset/wix) ⭐ 1,131 | 🐛 3 | 🌐 C# | 📅 2026-08-18 - The most powerful set of tools available to create your Windows installation experience
 * [Onova](https://github.com/Tyrrrz/Onova) ⭐ 563 | 🐛 0 | 🌐 C# | 📅 2026-08-01 - An unopinionated auto-update framework for desktop applications.
@@ -654,9 +654,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## IoC
 
-* [Microsoft.Extensions.DependencyInjection](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection) ⭐ 18,237 | 🐛 7,628 | 🌐 C# | 📅 2026-08-29 - The default IoC container for NET applications.
+* [Microsoft.Extensions.DependencyInjection](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection) ⭐ 18,238 | 🐛 7,650 | 🌐 C# | 📅 2026-08-30 - The default IoC container for NET applications.
 * [Autofac](https://github.com/autofac/Autofac) ⭐ 4,658 | 🐛 6 | 🌐 C# | 📅 2026-08-28 - An addictive .NET IoC container
-* [Scrutor](https://github.com/khellang/Scrutor) ⭐ 4,336 | 🐛 44 | 🌐 C# | 📅 2026-01-23 - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
+* [Scrutor](https://github.com/khellang/Scrutor) ⭐ 4,337 | 🐛 44 | 🌐 C# | 📅 2026-01-23 - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 * [Ninject](https://github.com/ninject/ninject) ⭐ 2,671 | 🐛 90 | 🌐 C# | 📅 2024-06-14 - The ninja of .NET dependency injectors
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) ⭐ 1,264 | 🐛 31 | 🌐 C# | 📅 2026-08-24 - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
 * [DryIoc](https://github.com/dadhi/DryIoc) ⭐ 1,129 | 🐛 55 | 🌐 C# | 📅 2026-05-28 - Simple, fast all fully featured IoC container.
@@ -669,22 +669,22 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## JavaScript Engines
 
 * [Edge.js](https://github.com/tjanczuk/edge) ⭐ 5,436 | 🐛 15 | 🌐 C++ | 📅 2024-11-14 - Run .NET and Node.js code in-process on Windows, macOS, and Linux
-* [Jint](https://github.com/sebastienros/jint) ⭐ 4,707 | 🐛 28 | 🌐 C# | 📅 2026-08-29 - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-* [ClearScript](https://github.com/Microsoft/ClearScript) ⭐ 2,030 | 🐛 24 | 🌐 C# | 📅 2026-06-23 - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
+* [Jint](https://github.com/sebastienros/jint) ⭐ 4,711 | 🐛 15 | 🌐 C# | 📅 2026-08-30 - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+* [ClearScript](https://github.com/Microsoft/ClearScript) ⭐ 2,030 | 🐛 23 | 🌐 C# | 📅 2026-06-23 - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
 * [Jurassic](https://github.com/paulbartrum/jurassic) ⭐ 951 | 🐛 65 | 🌐 C# | 📅 2025-02-04 - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
-* [YantraJS](https://github.com/yantrajs/yantra) ⭐ 257 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-25 - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+* [YantraJS](https://github.com/yantrajs/yantra) ⭐ 257 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-30 - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
 
 ## Logging
 
-* [Serilog](https://github.com/serilog/serilog) ⭐ 8,033 | 🐛 18 | 🌐 C# | 📅 2026-07-31 - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
-* [NLog](https://github.com/nlog/NLog/) ⭐ 6,544 | 🐛 53 | 🌐 C# | 📅 2026-08-28 - NLog - Advanced .NET and Silverlight logging
+* [Serilog](https://github.com/serilog/serilog) ⭐ 8,034 | 🐛 18 | 🌐 C# | 📅 2026-07-31 - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+* [NLog](https://github.com/nlog/NLog/) ⭐ 6,545 | 🐛 52 | 🌐 C# | 📅 2026-08-30 - NLog - Advanced .NET and Silverlight logging
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-08-28 - A fluent logging API that can be used to log messages throughout your application.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) ⭐ 858 | 🐛 19 | 🌐 C# | 📅 2024-11-30 - Error handler used for the Stack Exchange network
 * [Sentry](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 324 | 🌐 C# | 📅 2026-08-29 - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 * [ULogViewer](https://github.com/carina-studio/ULogViewer) ⭐ 596 | 🐛 22 | 🌐 C# | 📅 2026-08-27 - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) ⭐ 572 | 🐛 13 | 🌐 C# | 📅 2026-08-13 - Exceptionless .NET Client
 * [Logary](https://github.com/logary/logary) ⭐ 531 | 🐛 71 | 🌐 F# | 📅 2023-05-18 - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
-* [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ⭐ 440 | 🐛 1 | 🌐 C# | 📅 2026-06-09 - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
+* [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog) ⭐ 440 | 🐛 1 | 🌐 C# | 📅 2026-08-30 - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) ⭐ 262 | 🐛 33 | 🌐 C# | 📅 2024-07-11 - Elmah for MVC
 * [AutoLoggerMessage](https://github.com/stbychkov/AutoLoggerMessage) ⭐ 122 | 🐛 1 | 🌐 C# | 📅 2026-07-12 - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 * [Rollbar.NET](https://github.com/rollbar/Rollbar.NET) ⭐ 64 | 🐛 14 | 🌐 C# | 📅 2025-06-16 - Simplifies real-time remote error monitoring while using Rollbar.com. Open-source Rollbar Notifier SDK for any .NET-based technology stack. The SDK that can be used in any application built on the following .NET versions: .NET Core 2.0+, .NET Standard 2.0+, .NET Full Framework 4.5.1+, Mono, Xamarin, and, in general, any implementation of the .NET Standard 2.0+. It simplifies building data payloads based on exception data, tracing data, informational messages, and telemetry data and sends the payloads to the Rollbar API for remote monitoring and analysis of the hosting application's behavior. **\[Connects to Proprietary Service]** **\[Free Tier]**
@@ -699,21 +699,21 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [ML.NET](https://github.com/dotnet/machinelearning) ⭐ 9,352 | 🐛 1,000 | 🌐 C# | 📅 2026-08-28 - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ⭐ 1,371 | 🐛 12 | 🌐 C# | 📅 2025-11-13 - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-* [F# Data](https://github.com/fsprojects/FSharp.Data) ⭐ 873 | 🐛 4 | 🌐 F# | 📅 2026-08-25 - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+* [F# Data](https://github.com/fsprojects/FSharp.Data) ⭐ 873 | 🐛 5 | 🌐 F# | 📅 2026-08-30 - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Catalyst](https://github.com/curiosity-ai/catalyst) ⭐ 858 | 🐛 50 | 🌐 C# | 📅 2026-08-07 Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
-* [OpenGA.Net](https://github.com/asarnaout/OpenGeneticAlgorithm.NET) ⭐ 54 | 🐛 1 | 🌐 C# | 📅 2026-02-14 - Genetic algorithm .NET library for solving optimization problems, featuring extensible operators and adaptive strategy selection.
+* [OpenGA.Net](https://github.com/asarnaout/OpenGeneticAlgorithm.NET) ⭐ 55 | 🐛 1 | 🌐 C# | 📅 2026-02-14 - Genetic algorithm .NET library for solving optimization problems, featuring extensible operators and adaptive strategy selection.
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
 * [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
 
 ## Markdown Processors
 
-* [markdig](https://github.com/lunet-io/markdig) ⭐ 5,307 | 🐛 118 | 🌐 C# | 📅 2026-08-18 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+* [markdig](https://github.com/lunet-io/markdig) ⭐ 5,309 | 🐛 118 | 🌐 C# | 📅 2026-08-18 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
 
 ## Mail
 
-* [MailKit](https://github.com/jstedfast/MailKit) ⭐ 6,850 | 🐛 9 | 🌐 C# | 📅 2026-08-19 - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+* [MailKit](https://github.com/jstedfast/MailKit) ⭐ 6,851 | 🐛 9 | 🌐 C# | 📅 2026-08-19 - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
 * [MimeKit](https://github.com/jstedfast/MimeKit) ⭐ 2,000 | 🐛 12 | 🌐 C# | 📅 2026-08-15 - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) ⭐ 688 | 🐛 16 | 🌐 C# | 📅 2026-08-28 - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) ⭐ 196 | 🐛 12 | 🌐 C# | 📅 2026-03-20 - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
@@ -722,8 +722,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Mathematics
 
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) ⭐ 1,499 | 🐛 138 | 🌐 C# | 📅 2026-08-27 - A set of tools for graph layout and viewing.
-* [AngouriMath](https://github.com/asc-community/AngouriMath) ⭐ 828 | 🐛 89 | 🌐 C# | 📅 2026-08-29 - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
-* [WPF-Math](https://github.com/ForNeVeR/wpf-math) ⭐ 720 | 🐛 93 | 🌐 C# | 📅 2026-08-15 - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
+* [AngouriMath](https://github.com/asc-community/AngouriMath) ⭐ 828 | 🐛 86 | 🌐 C# | 📅 2026-08-30 - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
+* [WPF-Math](https://github.com/ForNeVeR/wpf-math) ⭐ 721 | 🐛 93 | 🌐 C# | 📅 2026-08-15 - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 * [GeometRi](https://github.com/RiSearcher/GeometRi.CSharp) ⭐ 249 | 🐛 0 | 🌐 C# | 📅 2026-03-19 - Simple and lightweight computational geometry library for .Net
 * [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) ⭐ 182 | 🐛 4 | 🌐 C# | 📅 2025-09-17 - A simple cross platform .NET API for Intel MKL.
 * [Rationals](https://github.com/tompazourek/Rationals) ⭐ 92 | 🐛 12 | 🌐 C# | 📅 2026-05-05 - Implementation of rational number arithmetic for .NET with arbitrary precision.
@@ -734,9 +734,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Media
 
-* [NAudio](https://github.com/naudio/NAudio) ⭐ 6,213 | 🐛 12 | 🌐 C# | 📅 2026-08-28 - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
-* [CSCore](https://github.com/filoe/cscore) ⭐ 2,362 | 🐛 103 | 🌐 C# | 📅 2024-07-03 - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
-* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,805 | 🐛 4 | 🌐 C# | 📅 2026-08-05 - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+* [NAudio](https://github.com/naudio/NAudio) ⭐ 6,216 | 🐛 12 | 🌐 C# | 📅 2026-08-28 - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+* [CSCore](https://github.com/filoe/cscore) ⭐ 2,363 | 🐛 103 | 🌐 C# | 📅 2024-07-03 - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) ⭐ 1,808 | 🐛 4 | 🌐 C# | 📅 2026-08-05 - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 * [TagLib#](https://github.com/mono/taglib-sharp) ⭐ 1,456 | 🐛 151 | 🌐 C# | 📅 2025-05-31 - TagLib# (aka taglib-sharp) is a library for reading and writing
   metadata in media files, including video, audio, and photo formats
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) ⭐ 777 | 🐛 54 | 🌐 C# | 📅 2025-08-07 - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
@@ -757,11 +757,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [Polly](https://github.com/App-vNext/Polly) ⭐ 14,232 | 🐛 5 | 🌐 C# | 📅 2026-08-28 - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
 * [Humanizer](https://github.com/Humanizr/Humanizer) ⭐ 9,839 | 🐛 7 | 🌐 C# | 📅 2026-08-28 - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-* [FluentValidation](https://github.com/FluentValidation/FluentValidation) ⭐ 9,753 | 🐛 3 | 🌐 C# | 📅 2026-08-12 - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+* [FluentValidation](https://github.com/FluentValidation/FluentValidation) ⭐ 9,751 | 🐛 3 | 🌐 C# | 📅 2026-08-12 - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) ⭐ 5,208 | 🐛 355 | 🌐 C# | 📅 2025-06-27 - Library to help reading and writing CSV files <https://github.com/JoshClose/CsvHelper> ⭐ 5,208 | 🐛 355 | 🌐 C# | 📅 2025-06-27
 * [Coravel](https://github.com/jamesmh/coravel) ⭐ 4,287 | 🐛 84 | 🌐 C# | 📅 2025-07-20 Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
-* [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,719 | 🐛 8 | 🌐 C# | 📅 2026-08-25 - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
-* [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,162 | 🐛 40 | 🌐 C# | 📅 2026-08-13 - A a .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders.
+* [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,720 | 🐛 8 | 🌐 C# | 📅 2026-08-25 - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+* [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) ⭐ 3,161 | 🐛 40 | 🌐 C# | 📅 2026-08-13 - A a .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) ⭐ 1,833 | 🐛 3 | 🌐 C# | 📅 2025-10-05 - Enums.NET is a high-performance type-safe .NET enum utility library
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) ⭐ 1,750 | 🐛 86 | 🌐 C# | 📅 2026-07-30 - A JIT (just-in-time) compiler for high-performance GPU programs written in .Net-based languages.
 * [Sep](https://github.com/nietras/Sep) ⭐ 1,467 | 🐛 0 | 🌐 C# | 📅 2026-08-17 - World's Fastest .NET CSV Parser. Modern, minimal, fast, zero allocation, reading and writing of separated values (`csv`, `tsv` etc.). Cross-platform, trimmable and AOT/NativeAOT compatible.
@@ -793,8 +793,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## MVVM
 
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) ⭐ 8,538 | 🐛 5 | 🌐 C# | 📅 2026-08-29 - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
-* [Prism](https://github.com/PrismLibrary/Prism) ⭐ 6,839 | 🐛 27 | 🌐 C# | 📅 2026-08-06 - A cross-platform desktop and mobile MVVM development framework.
-* [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) ⚠️ Archived, [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui) ⭐ 2,695 | 🐛 196 | 🌐 C# | 📅 2026-08-21, and [Dotnet Community Toolkit](https://github.com/CommunityToolkit/dotnet) ⭐ 3,750 | 🐛 215 | 🌐 C# | 📅 2026-03-25.
+* [Prism](https://github.com/PrismLibrary/Prism) ⭐ 6,840 | 🐛 27 | 🌐 C# | 📅 2026-08-06 - A cross-platform desktop and mobile MVVM development framework.
+* [Community Toolkit](https://github.com/CommunityToolkit) - Collection of control & helper libraries and samples for various .NET technologies. Contains modern MVVM library, supported by Microsoft. Includes [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) ⚠️ Archived, [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui) ⭐ 2,695 | 🐛 196 | 🌐 C# | 📅 2026-08-21, and [Dotnet Community Toolkit](https://github.com/CommunityToolkit/dotnet) ⭐ 3,751 | 🐛 215 | 🌐 C# | 📅 2026-03-25.
 * [MVVMCross](https://github.com/MvvmCross/MvvmCross) ⭐ 3,921 | 🐛 185 | 🌐 C# | 📅 2026-08-28 - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) ⭐ 2,862 | 🐛 107 | 🌐 C# | 📅 2026-08-28 - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV\* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 * [Stylet](https://github.com/canton7/stylet/) ⭐ 1,059 | 🐛 24 | 🌐 C# | 📅 2024-06-24 - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
@@ -812,19 +812,19 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) ⭐ 10,192 | 🐛 6 | 🌐 C# | 📅 2026-07-02 - A convention-based object-object mapper in .NET. <https://automapper.org>
 * [Mapster](https://github.com/MapsterMapper/Mapster) ⭐ 5,163 | 🐛 79 | 🌐 C# | 📅 2026-08-25 - A high performance object mapper in .net
-* [Mapperly](https://github.com/riok/mapperly) ⭐ 4,153 | 🐛 69 | 🌐 C# | 📅 2026-08-27 - A .NET source generator for generating object mappings. No runtime reflection.
+* [Mapperly](https://github.com/riok/mapperly) ⭐ 4,155 | 🐛 69 | 🌐 C# | 📅 2026-08-27 - A .NET source generator for generating object mappings. No runtime reflection.
 
 ## Office
 
-* [ClosedXML](https://github.com/ClosedXML/ClosedXML) ⭐ 5,686 | 🐛 469 | 🌐 C# | 📅 2026-07-26 - ClosedXML makes it easier for developers to create Excel 2007/2010 files
-* [Open XML SDK](https://github.com/officedev/open-xml-sdk) ⭐ 4,595 | 🐛 123 | 🌐 C# | 📅 2026-08-18 - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
-* [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) ⭐ 4,411 | 🐛 34 | 🌐 C# | 📅 2026-08-29 - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
-* [EPPlus](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,033 | 🐛 92 | 🌐 C# | 📅 2026-08-28 - EPPlus is a .NET library that reads and writes Excel 2007/2010 files using the Open Office XML format (xlsx).
+* [ClosedXML](https://github.com/ClosedXML/ClosedXML) ⭐ 5,687 | 🐛 469 | 🌐 C# | 📅 2026-07-26 - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+* [Open XML SDK](https://github.com/officedev/open-xml-sdk) ⭐ 4,596 | 🐛 123 | 🌐 C# | 📅 2026-08-18 - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
+* [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) ⭐ 4,412 | 🐛 34 | 🌐 C# | 📅 2026-08-30 - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+* [EPPlus](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,034 | 🐛 92 | 🌐 C# | 📅 2026-08-28 - EPPlus is a .NET library that reads and writes Excel 2007/2010 files using the Open Office XML format (xlsx).
   **\[Source Available]** **\[Free Tier]**
 * [DocX](https://github.com/xceedsoftware/DocX) ⭐ 1,920 | 🐛 315 | 🌐 C# | 📅 2026-06-11 - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 * [ExcelDna](https://github.com/Excel-DNA/ExcelDna) ⭐ 1,499 | 🐛 171 | 🌐 C# | 📅 2026-08-23 - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
-* [NetOffice](https://github.com/NetOfficeFw/NetOffice) ⭐ 765 | 🐛 38 | 🌐 C# | 📅 2026-08-01 - .NET wrapper assemblies for Microsoft Office applications.
-* [OfficeIMO](https://github.com/EvotecIt/OfficeIMO) ⭐ 518 | 🐛 4 | 🌐 C# | 📅 2026-08-29 - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
+* [NetOffice](https://github.com/NetOfficeFw/NetOffice) ⭐ 764 | 🐛 38 | 🌐 C# | 📅 2026-08-01 - .NET wrapper assemblies for Microsoft Office applications.
+* [OfficeIMO](https://github.com/EvotecIt/OfficeIMO) ⭐ 518 | 🐛 5 | 🌐 C# | 📅 2026-08-30 - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
 * [Toxy](https://github.com/nissl-lab/toxy) ⭐ 461 | 🐛 13 | 🌐 C# | 📅 2026-06-19 - .NET text extraction framework supports a few file formats
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) ⭐ 441 | 🐛 22 | 🌐 C# | 📅 2026-08-16 - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
 * [NPOI](https://github.com/tonyqus/npoi) ⭐ 159 | 🐛 1 | 🌐 C# | 📅 2026-08-25 - This project is the .NET version of POI Java project at <https://poi.apache.org/>.
@@ -840,23 +840,23 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## ORM
 
-* [Dapper](https://github.com/DapperLib/Dapper) ⭐ 18,375 | 🐛 546 | 🌐 C# | 📅 2026-08-20 - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
-* [Entity Framework Core](https://github.com/dotnet/efcore) ⭐ 14,784 | 🐛 2,383 | 🌐 C# | 📅 2026-08-29 - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Dapper](https://github.com/DapperLib/Dapper) ⭐ 18,374 | 🐛 546 | 🌐 C# | 📅 2026-08-20 - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
+* [Entity Framework Core](https://github.com/dotnet/efcore) ⭐ 14,784 | 🐛 2,383 | 🌐 C# | 📅 2026-08-30 - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [SqlSugar](https://github.com/DotNetNext/SqlSugar) ⭐ 5,828 | 🐛 11 | 🌐 C# | 📅 2026-08-19 - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql -  **NOTE**: This is not affiliated with Microsoft or .NET
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack/tree/main/ServiceStack.OrmLite) ⭐ 5,499 | 🐛 35 | 🌐 C# | 📅 2026-08-24 - Light, simple and fast convention-based POCO ORM **\[[Free for OSS](https://github.com/ServiceStack/ServiceStack/blob/master/license.txt) ⭐ 5,499 | 🐛 35 | 🌐 C# | 📅 2026-08-24]** **\[$]**
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) ⭐ 4,405 | 🐛 172 | 🌐 C# | 📅 2026-07-31 - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access. -  **NOTE**: This is not affiliated with Microsoft or .NET
 * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) ⭐ 4,001 | 🐛 128 | 🌐 C# | 📅 2026-08-14 - Entity Framework Core Bulk Extensions for super fast (BulkCopy) CRUD ops + SaveChanges on multiple DBs: SQL, PG, My, Lite.
-* [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) ⭐ 3,510 | 🐛 219 | 🌐 C# | 📅 2026-08-29 - Fluent Migrations framework for .net
-* [LINQ to DB](https://github.com/linq2db/linq2db) ⭐ 3,323 | 🐛 393 | 🌐 C# | 📅 2026-08-29 - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+* [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) ⭐ 3,509 | 🐛 219 | 🌐 C# | 📅 2026-08-29 - Fluent Migrations framework for .net
+* [LINQ to DB](https://github.com/linq2db/linq2db) ⭐ 3,322 | 🐛 387 | 🌐 C# | 📅 2026-08-30 - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) ⭐ 2,141 | 🐛 111 | 🌐 C# | 📅 2025-11-30 - A tiny ORM-ish thing for your POCOs
-* [RepoDb](https://github.com/mikependon/RepoDb) ⭐ 1,893 | 🐛 162 | 🌐 C# | 📅 2026-08-29 - A hybrid ORM library for .NET.
+* [RepoDb](https://github.com/mikependon/RepoDb) ⭐ 1,897 | 🐛 158 | 🌐 C# | 📅 2026-08-30 - A hybrid ORM library for .NET.
 * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) ⭐ 1,735 | 🐛 2 | 🌐 C# | 📅 2026-03-29 - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
-* [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) ⭐ 1,666 | 🐛 106 | 🌐 C# | 📅 2026-08-29 - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
+* [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) ⭐ 1,666 | 🐛 100 | 🌐 C# | 📅 2026-08-30 - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) ⭐ 914 | 🐛 5 | 🌐 C# | 📅 2026-05-29 - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [NPoco](https://github.com/schotime/NPoco) ⭐ 880 | 🐛 47 | 🌐 C# | 📅 2026-08-29 - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 * [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) ⭐ 540 | 🐛 1 | 🌐 C# | 📅 2024-05-23 - Dapper Query Builder using String Interpolation and Fluent API
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) ⭐ 520 | 🐛 10 | 🌐 C# | 📅 2024-06-03 - The fastest micro-ORM extension for Dapper
-* [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) ⭐ 399 | 🐛 51 | 🌐 C# | 📅 2026-08-29 - An "Entity Framework"-like interface for MongoDB
+* [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) ⭐ 399 | 🐛 51 | 🌐 C# | 📅 2026-08-30 - An "Entity Framework"-like interface for MongoDB
 * [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) ⭐ 203 | 🐛 1 | 🌐 C# | 📅 2026-03-10 - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
 * [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) ⭐ 185 | 🐛 4 | 🌐 C# | 📅 2025-03-29 - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
@@ -864,8 +864,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Package Management
 
-* [Paket](https://github.com/fsprojects/Paket) ⭐ 2,083 | 🐛 711 | 🌐 F# | 📅 2026-08-29 - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. <https://fsprojects.github.io/Paket/>
-* [Sleet](https://github.com/emgarten/sleet/) ⭐ 413 | 🐛 4 | 🌐 C# | 📅 2026-07-14 - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+* [Paket](https://github.com/fsprojects/Paket) ⭐ 2,084 | 🐛 707 | 🌐 F# | 📅 2026-08-30 - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. <https://fsprojects.github.io/Paket/>
+* [Sleet](https://github.com/emgarten/sleet/) ⭐ 414 | 🐛 4 | 🌐 C# | 📅 2026-07-14 - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 * [NuGet](https://www.nuget.org/) - The .NET package manager
 * [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **\[Free for Public/OSS]** **\[$]**
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **\[$]**
@@ -889,7 +889,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Protocols
 
-* [SSH.NET](https://github.com/sshnet/SSH.NET) ⭐ 4,373 | 🐛 373 | 🌐 C# | 📅 2026-08-22 - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+* [SSH.NET](https://github.com/sshnet/SSH.NET) ⭐ 4,374 | 🐛 373 | 🌐 C# | 📅 2026-08-22 - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP) ⭐ 3,394 | 🐛 21 | 🌐 C# | 📅 2026-05-27 - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 * [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) ⭐ 879 | 🐛 20 | 🌐 C# | 📅 2026-03-01 - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 * [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
@@ -907,14 +907,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Hangfire](https://github.com/HangfireIO/Hangfire) ⭐ 10,130 | 🐛 941 | 🌐 C# | 📅 2026-08-28 - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 * [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,799 | 🐛 1 | 🌐 C# | 📅 2026-06-04 - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,107 | 🐛 8 | 🌐 C# | 📅 2026-08-01 - An EventBus with local persistent message functionality for RabbitMQ or Kafka. -  **NOTE**: This is not affiliated with Microsoft or .NET
-* [NetMQ](https://github.com/zeromq/netmq) ⭐ 3,181 | 🐛 135 | 🌐 C# | 📅 2026-07-30 - NetMQ is 100% native C# port of ZeroMQ
-* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,059 | 🐛 3 | 🌐 C# | 📅 2026-08-27 - An easy to use .NET API for RabbitMQ
+* [NetMQ](https://github.com/zeromq/netmq) ⭐ 3,179 | 🐛 135 | 🌐 C# | 📅 2026-07-30 - NetMQ is 100% native C# port of ZeroMQ
+* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,059 | 🐛 3 | 🌐 C# | 📅 2026-08-30 - An easy to use .NET API for RabbitMQ
 * [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,657 | 🐛 23 | 🌐 C# | 📅 2026-08-18 - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,473 | 🐛 90 | 🌐 C# | 📅 2026-08-29 - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
-* [RabbitMQ.NET](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,280 | 🐛 64 | 🌐 C# | 📅 2026-08-27 - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,473 | 🐛 98 | 🌐 C# | 📅 2026-08-30 - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
+* [RabbitMQ.NET](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,281 | 🐛 64 | 🌐 C# | 📅 2026-08-27 - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,168 | 🐛 288 | 🌐 C# | 📅 2026-08-28 - The most popular service bus for .NET
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-08-28 - A common interface with in-memory, Redis and Azure implementations.
-* [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) ⭐ 653 | 🐛 45 | 🌐 C# | 📅 2026-08-29 - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
+* [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) ⭐ 654 | 🐛 45 | 🌐 C# | 📅 2026-08-29 - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 * [Streamiz](https://github.com/LGouellec/streamiz) ⭐ 543 | 🐛 27 | 🌐 C# | 📅 2026-08-27 - a .NET Stream Processing Library for Apache Kafka.
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf) ⭐ 278 | 🐛 11 | 🌐 C# | 📅 2026-08-27 - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 * [Confluent's .NET Client](https://github.com/confluentinc/confluent-kafka-dotnet) ⭐ 270 | 🐛 477 | 🌐 C# | 📅 2026-08-29 - Confluent's .NET Client for Apache Kafka.
@@ -925,7 +925,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## RPC
 
 * [gRPCurl](https://github.com/fullstorydev/grpcurl) ⭐ 12,791 | 🐛 121 | 🌐 Go | 📅 2026-08-28 - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
-* [gRPC UI](https://github.com/fullstorydev/grpcui) ⭐ 5,922 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-28 - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
+* [gRPC UI](https://github.com/fullstorydev/grpcui) ⭐ 5,923 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-28 - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 * [gRPC](https://github.com/grpc/grpc-dotnet) ⭐ 4,483 | 🐛 176 | 🌐 C# | 📅 2026-08-17  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
 
 ## Reactive Programming
@@ -935,13 +935,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Real-time Communications
 
-* [SIPSorcery](https://github.com/sipsorcery/sipsorcery) ⭐ 1,932 | 🐛 35 | 🌐 C# | 📅 2026-08-29 - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
+* [SIPSorcery](https://github.com/sipsorcery/sipsorcery) ⭐ 1,932 | 🐛 34 | 🌐 C# | 📅 2026-08-30 - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
 ## Regular Expression
 
 ## Scheduling
 
-* [QuartzNet](https://github.com/quartznet/quartznet) ⭐ 7,069 | 🐛 11 | 🌐 C# | 📅 2026-08-27 - Quartz Enterprise Scheduler .NET
+* [QuartzNet](https://github.com/quartznet/quartznet) ⭐ 7,069 | 🐛 20 | 🌐 C# | 📅 2026-08-30 - Quartz Enterprise Scheduler .NET
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) ⭐ 5,919 | 🐛 145 | 🌐 C# | 📅 2026-08-22 - Lightweight embeddable workflow engine
 * [TickerQ](https://github.com/Arcenox-co/TickerQ) ⭐ 3,594 | 🐛 101 | 🌐 C# | 📅 2026-08-29 - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [DurableTask](https://github.com/Azure/durabletask) ⭐ 1,730 | 🐛 226 | 🌐 C# | 📅 2026-08-28 - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
@@ -954,10 +954,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## SDK and API Clients
 
-* [Azure PowerShell](https://github.com/Azure/azure-powershell) ⭐ 4,776 | 🐛 1,547 | 🌐 C# | 📅 2026-08-29 - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+* [Azure PowerShell](https://github.com/Azure/azure-powershell) ⭐ 4,777 | 🐛 1,548 | 🌐 C# | 📅 2026-08-30 - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET](https://github.com/octokit/octokit.net) ⭐ 2,858 | 🐛 42 | 🌐 C# | 📅 2026-08-17 - A GitHub API client library for .NET
 * [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) ⭐ 347 | 🐛 29 | 🌐 C# | 📅 2026-08-29 - Official .NET SDK for the Dropbox API
-* [AWS SDK](https://github.com/aws/aws-sdk-net) ⭐ 138 | 🐛 33 | 🌐 C# | 📅 2026-08-28 - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+* [AWS SDK](https://github.com/aws/aws-sdk-net) ⭐ 138 | 🐛 33 | 🌐 C# | 📅 2026-08-30 - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Countly SDK for Windows](https://github.com/Countly/countly-sdk-windows/) ⭐ 26 | 🐛 3 | 🌐 C# | 📅 2026-08-14 - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 * [Getty Images API SDK](https://github.com/gettyimages/gettyimages-api_dotnet) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2026-04-28 - SDK for the Getty Images and iStock APIs
 
@@ -969,13 +969,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 **Embedded Search Libraries** - like lucene, but easier to use.
 
-* [Lunr-Core](https://github.com/bleroy/lunr-core) ⭐ 573 | 🐛 2 | 🌐 C# | 📅 2026-04-01 - Lunr-core is a small, full text search library for use in small applications. It's a .NET port of LUNR.js.
+* [Lunr-Core](https://github.com/bleroy/lunr-core) ⭐ 574 | 🐛 2 | 🌐 C# | 📅 2026-04-01 - Lunr-core is a small, full text search library for use in small applications. It's a .NET port of LUNR.js.
 * [hOOt](https://github.com/mgholam/hOOt) ⭐ 120 | 🐛 2 | 🌐 C# | 📅 2020-07-07 - Smallest full text search engine (lucene replacement). built from scratch using inverted Roaring bitmap index, highly compact storage, operating in database and document modes
 * [ZoneTree.FullTextSearch](https://github.com/koculu/ZoneTree.FullTextSearch) ⭐ 101 | 🐛 0 | 🌐 C# | 📅 2026-06-10 - efficient full-text search library. extends ZoneTree. It is fast, embedded search engine suitable for applications that require high performance and do not rely on external databases.
 
 ## Serialization
 
-* [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,316 | 🐛 826 | 🌐 C# | 📅 2026-08-13 - Popular high-performance JSON framework for .NET
+* [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,315 | 🐛 826 | 🌐 C# | 📅 2026-08-13 - Popular high-performance JSON framework for .NET
 * \[ServiceStack.Text]<https://github.com/ServiceStack/ServiceStack/tree/main/ServiceStack.Text> ⭐ 5,499 | 🐛 35 | 🌐 C# | 📅 2026-08-24) - JSON, JSV and CSV Text Serializers used in servicestack.net
 * [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) ⭐ 4,968 | 🐛 537 | 🌐 C# | 📅 2026-08-28 - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) ⭐ 859 | 🐛 85 | 🌐 C# | 📅 2024-07-12 - MessagePack implementation for Common Language Infrastructure
@@ -1014,7 +1014,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [Scriban](https://github.com/lunet-io/scriban) ⭐ 3,963 | 🐛 2 | 🌐 C# | 📅 2026-07-29 - A fast, powerful, safe and lightweight text templating language and engine for .NET
 * [Fluid](https://github.com/sebastienros/fluid) ⭐ 1,774 | 🐛 31 | 🌐 C# | 📅 2026-08-23 - Fluid is an open-source .NET template engine based on the Liquid template language.
-* [RazorLight](https://github.com/toddams/RazorLight) ⭐ 1,661 | 🐛 77 | 🌐 C# | 📅 2024-07-06 - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
+* [RazorLight](https://github.com/toddams/RazorLight) ⭐ 1,660 | 🐛 77 | 🌐 C# | 📅 2024-07-06 - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
 * [Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) ⭐ 1,460 | 🐛 7 | 🌐 C# | 📅 2026-08-09 - A real .NET Handlebars engine
 * [SmartFormat](https://github.com/axuno/SmartFormat) ⭐ 1,258 | 🐛 3 | 🌐 C# | 📅 2026-08-01 - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 * [DotLiquid](https://github.com/dotliquid/dotliquid) ⭐ 1,096 | 🐛 63 | 🌐 C# | 📅 2025-04-02 - C# port of the Ruby Liquid templating language
@@ -1022,26 +1022,26 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Testing
 
-* [Bogus](https://github.com/bchavez/Bogus) ⭐ 9,732 | 🐛 91 | 🌐 C# | 📅 2025-12-22 - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
-* [Moq](https://github.com/devlooped/moq) ⭐ 6,403 | 🐛 21 | 🌐 C# | 📅 2026-08-27 - The most popular and friendly mocking framework for .NET
-* [xUnit.net](https://github.com/xunit/xunit) ⭐ 4,599 | 🐛 23 | 🌐 C# | 📅 2026-08-25 - A free, open source, community-focused unit testing tool for the .NET Framework.
-* [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) ⭐ 4,356 | 🐛 44 | 🌐 C# | 📅 2026-08-29 - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
-* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) ⭐ 3,816 | 🐛 66 | 🌐 C# | 📅 2026-08-25 - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test **\[Source Available]** **\[Free for OSS]**
-* [AutoFixture](https://github.com/AutoFixture/AutoFixture) ⭐ 3,535 | 🐛 58 | 🌐 C# | 📅 2026-07-31 - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
-* [Verify](https://github.com/VerifyTests/Verify) ⭐ 3,466 | 🐛 6 | 🌐 C# | 📅 2026-08-29 - Verification tool to enable simple approval of complex models and documents.
+* [Bogus](https://github.com/bchavez/Bogus) ⭐ 9,729 | 🐛 91 | 🌐 C# | 📅 2025-12-22 - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+* [Moq](https://github.com/devlooped/moq) ⭐ 6,402 | 🐛 21 | 🌐 C# | 📅 2026-08-27 - The most popular and friendly mocking framework for .NET
+* [xUnit.net](https://github.com/xunit/xunit) ⭐ 4,599 | 🐛 22 | 🌐 C# | 📅 2026-08-25 - A free, open source, community-focused unit testing tool for the .NET Framework.
+* [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) ⭐ 4,351 | 🐛 42 | 🌐 C# | 📅 2026-08-30 - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) ⭐ 3,815 | 🐛 66 | 🌐 C# | 📅 2026-08-25 - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test **\[Source Available]** **\[Free for OSS]**
+* [AutoFixture](https://github.com/AutoFixture/AutoFixture) ⭐ 3,536 | 🐛 58 | 🌐 C# | 📅 2026-07-31 - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
+* [Verify](https://github.com/VerifyTests/Verify) ⭐ 3,467 | 🐛 1 | 🌐 C# | 📅 2026-08-30 - Verification tool to enable simple approval of complex models and documents.
 * [Shouldly](https://github.com/shouldly/shouldly) ⭐ 3,409 | 🐛 92 | 🌐 C# | 📅 2026-08-27 - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
-* [NUnit](https://github.com/nunit/nunit) ⭐ 2,622 | 🐛 266 | 🌐 C# | 📅 2026-08-29 - A unit-testing framework for all .NET languages
+* [NUnit](https://github.com/nunit/nunit) ⭐ 2,622 | 🐛 262 | 🌐 C# | 📅 2026-08-30 - A unit-testing framework for all .NET languages
 * [NBomber](https://github.com/PragmaticFlow/NBomber) ⭐ 2,238 | 🐛 173 | 🌐 CSS | 📅 2026-08-17 - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,065 | 🐛 193 | 🌐 C# | 📅 2026-08-28 - Mutation testing for .NET Core projects
-* [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) ⭐ 1,848 | 🐛 4 | 🌐 C# | 📅 2026-08-17 - The easy mocking library for .NET <https://fakeiteasy.github.io>
-* [ArchUnitNET](https://github.com/TNG/ArchUnitNET) ⭐ 1,355 | 🐛 31 | 🌐 C# | 📅 2026-08-29 - Simple library for checking the architecture of C# code with a fluent API.
-* [FsCheck](https://github.com/fscheck/FsCheck) ⭐ 1,245 | 🐛 22 | 🌐 F# | 📅 2026-08-20 - Random Testing for .NET.
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) ⭐ 2,065 | 🐛 193 | 🌐 C# | 📅 2026-08-30 - Mutation testing for .NET Core projects
+* [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) ⭐ 1,849 | 🐛 4 | 🌐 C# | 📅 2026-08-17 - The easy mocking library for .NET <https://fakeiteasy.github.io>
+* [ArchUnitNET](https://github.com/TNG/ArchUnitNET) ⭐ 1,354 | 🐛 31 | 🌐 C# | 📅 2026-08-30 - Simple library for checking the architecture of C# code with a fluent API.
+* [FsCheck](https://github.com/fscheck/FsCheck) ⭐ 1,246 | 🐛 22 | 🌐 F# | 📅 2026-08-20 - Random Testing for .NET.
 * [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) ⭐ 1,143 | 🐛 2 | 🌐 C# | 📅 2025-07-17 - Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 * [Machine.Specifications](https://github.com/machine/machine.specifications) ⭐ 898 | 🐛 33 | 🌐 C# | 📅 2026-07-17 - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
 * [Expecto](https://github.com/haf/expecto) ⭐ 740 | 🐛 57 | 🌐 F# | 📅 2026-06-17 - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [Canopy](https://github.com/lefthandedgoat/canopy) ⭐ 509 | 🐛 28 | 🌐 F# | 📅 2022-08-08 - Canopy is a free, open source F# web automation and testing framework
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) ⭐ 333 | 🐛 67 | 🌐 C# | 📅 2026-02-24 - A snapshot testing tool for .NET Core and .NET Framework
-* [CsCheck](https://github.com/AnthonyLloyd/CsCheck) ⭐ 223 | 🐛 2 | 🌐 C# | 📅 2026-08-27 - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
+* [CsCheck](https://github.com/AnthonyLloyd/CsCheck) ⭐ 226 | 🐛 2 | 🌐 C# | 📅 2026-08-30 - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 * [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) ⭐ 175 | 🐛 21 | 🌐 C# | 📅 2026-03-01 - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 * [BDTest](https://github.com/thomhurst/BDTest/wiki) ⭐ 91 | 🐛 6 | 🌐 C# | 📅 2026-08-25 - A behaviour driven testing and reporting framework!
 * [NotoriousTest](https://github.com/Notorious-Coding/Notorious-Test) ⭐ 13 | 🐛 0 | 🌐 C# | 📅 2026-06-28 - A lightweight .NET framework that makes integration tests fully isolated by orchestrating reusable infrastructures and environments, auto-resetting between tests. TestContainers and SQL Server built-in support. Based on XUnit.
@@ -1053,21 +1053,21 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Tools
 
-* [ShareX](https://github.com/ShareX/ShareX) ⭐ 39,371 | 🐛 663 | 🌐 C# | 📅 2026-08-29 - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
-* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,702 | 🐛 160 | 🌐 JavaScript | 📅 2026-08-20 - A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
+* [ShareX](https://github.com/ShareX/ShareX) ⭐ 39,378 | 🐛 661 | 🌐 C# | 📅 2026-08-30 - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,704 | 🐛 160 | 🌐 JavaScript | 📅 2026-08-20 - A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 * [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,603 | 🐛 190 | 🌐 C# | 📅 2026-08-24 - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) ⭐ 8,715 | 🐛 35 | 🌐 C# | 📅 2026-08-20 - A powerful tool for managing networks and troubleshoot network problems!
-* [STranslate](https://github.com/ZGGSONG/STranslate) ⭐ 7,878 | 🐛 32 | 🌐 C# | 📅 2026-08-19 - STranslate is a ready-to-go translation ocr tool developed with WPF.
+* [STranslate](https://github.com/ZGGSONG/STranslate) ⭐ 7,892 | 🐛 32 | 🌐 C# | 📅 2026-08-19 - STranslate is a ready-to-go translation ocr tool developed with WPF.
 * [Opserver](https://github.com/Opserver/Opserver) ⭐ 4,566 | 🐛 76 | 🌐 C# | 📅 2024-11-30 - Stack Exchange's Monitoring System
-* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) ⭐ 3,326 | 🐛 4 | 🌐 C# | 📅 2026-08-23 - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
+* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) ⭐ 3,325 | 🐛 4 | 🌐 C# | 📅 2026-08-23 - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) ⭐ 2,970 | 🐛 22 | 🌐 C# | 📅 2026-08-02 - Makes life working with units of measurement just a little bit better.
 * [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) ⭐ 2,538 | 🐛 5 | 🌐 C# | 📅 2026-08-15 - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
-* [CSharpier](https://github.com/belav/csharpier) ⭐ 2,311 | 🐛 102 | 🌐 C# | 📅 2026-08-26 - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) ⭐ 52,220 | 🐛 1,417 | 🌐 JavaScript | 📅 2026-08-29 printing process.
-* [Downloader](https://github.com/bezzad/Downloader) ⭐ 1,704 | 🐛 0 | 🌐 C# | 📅 2026-08-23 - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+* [CSharpier](https://github.com/belav/csharpier) ⭐ 2,311 | 🐛 102 | 🌐 C# | 📅 2026-08-26 - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) ⭐ 52,223 | 🐛 1,418 | 🌐 JavaScript | 📅 2026-08-30 printing process.
+* [Downloader](https://github.com/bezzad/Downloader) ⭐ 1,704 | 🐛 0 | 🌐 C# | 📅 2026-08-30 - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server) ⭐ 407 | 🐛 9 | 🌐 C# | 📅 2026-08-22 - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 * [FastCloner](https://github.com/lofcz/FastCloner) ⭐ 369 | 🐛 0 | 🌐 C# | 📅 2026-08-25 - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 * [Mockaco](https://github.com/natenho/Mockaco/) ⭐ 351 | 🐛 36 | 🌐 C# | 📅 2025-11-26 - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
-* [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) ⭐ 277 | 🐛 3 | 🌐 C# | 📅 2026-08-28 - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
+* [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) ⭐ 277 | 🐛 4 | 🌐 C# | 📅 2026-08-30 - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
 * [BouncyHSM](https://github.com/harrison314/BouncyHsm) ⭐ 195 | 🐛 4 | 🌐 C# | 📅 2026-08-25 - A software simulator of HSM and smartcard simulator with HTML UI, REST API and PKCS#11 interface.
 * [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform **\[Proprietary]** **\[$]** **\[Free Trial available]**
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .NET Core and Electron. **\[Free version available]\[Proprietary]**
@@ -1075,13 +1075,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Trading
 
-* [Lean](https://github.com/QuantConnect/Lean) ⭐ 21,397 | 🐛 258 | 🌐 C# | 📅 2026-08-28 - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
-* [StockSharp](https://github.com/StockSharp/StockSharp) ⭐ 10,661 | 🐛 2 | 🌐 C# | 📅 2026-08-29 - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
+* [Lean](https://github.com/QuantConnect/Lean) ⭐ 21,416 | 🐛 259 | 🌐 C# | 📅 2026-08-28 - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+* [StockSharp](https://github.com/StockSharp/StockSharp) ⭐ 10,667 | 🐛 2 | 🌐 C# | 📅 2026-08-30 - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
 
 ## UI Automation
 
-* [PuppeteerSharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,916 | 🐛 11 | 🌐 C# | 📅 2026-08-27 - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
-* [FlaUI](https://github.com/FlaUI/FlaUI) ⭐ 3,103 | 🐛 251 | 🌐 C# | 📅 2026-08-13 - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
+* [PuppeteerSharp](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,916 | 🐛 11 | 🌐 C# | 📅 2026-08-30 - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+* [FlaUI](https://github.com/FlaUI/FlaUI) ⭐ 3,105 | 🐛 251 | 🌐 C# | 📅 2026-08-13 - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
 * [Atata](https://github.com/atata-framework/atata) ⭐ 502 | 🐛 10 | 🌐 C# | 📅 2026-08-21 - Automated web testing full featured framework based on Selenium WebDriver.
 * [PuppeteerSharp.Contrib](https://github.com/hlaueriksson/puppeteer-sharp-contrib) ⭐ 83 | 🐛 1 | 🌐 C# | 📅 2025-05-03 - Contributions to Puppeteer Sharp that provides a convenient way to write readable and robust browser tests.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
@@ -1099,13 +1099,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Web Browsers
 
-* [CefSharp](https://github.com/cefsharp/CefSharp/) ⭐ 10,247 | 🐛 71 | 🌐 C# | 📅 2026-08-29 - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
-* [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) ⭐ 1,024 | 🐛 17 | 🌐 C# | 📅 2025-04-22 - A full featured .NET web-browser built using C# and CefSharp
+* [CefSharp](https://github.com/cefsharp/CefSharp/) ⭐ 10,248 | 🐛 70 | 🌐 C# | 📅 2026-08-29 - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+* [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) ⭐ 1,025 | 🐛 17 | 🌐 C# | 📅 2025-04-22 - A full featured .NET web-browser built using C# and CefSharp
 
 ## Web Frameworks
 
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) ⭐ 2,252 | 🐛 48 | 🌐 F# | 📅 2026-08-25 - Functional (F#) ASP.NET Core micro framework for building rich web applications
-* [DotVVM](https://github.com/riganti/dotvvm) ⭐ 806 | 🐛 161 | 🌐 C# | 📅 2026-08-28 - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+* [DotVVM](https://github.com/riganti/dotvvm) ⭐ 806 | 🐛 163 | 🌐 C# | 📅 2026-08-30 - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
 * [Coalesce](https://github.com/IntelliTect/Coalesce/) ⭐ 81 | 🐛 29 | 🌐 C# | 📅 2026-08-27 - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
 * [CodeBehind Framework](https://github.com/elanatframework/Code_behind) ⭐ 78 | 🐛 0 | 🌐 C# | 📅 2026-08-26 - Modern and powerful back-end framework under ASP.NET Core.
 * [ASP.NET \[Core\]](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
@@ -1114,7 +1114,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Web Servers
 
 * [EmbedIO](https://github.com/unosquare/embedio) ⚠️ Archived - Web server built on Mono and cross-platform
-* [GenHTTP](https://github.com/Kaliumhexacyanoferrat/GenHTTP) ⭐ 285 | 🐛 41 | 🌐 C# | 📅 2026-08-26 - A lightweight, embeddable web server for quickly creating REST APIs
+* [GenHTTP](https://github.com/Kaliumhexacyanoferrat/GenHTTP) ⭐ 286 | 🐛 41 | 🌐 C# | 📅 2026-08-30 - A lightweight, embeddable web server for quickly creating REST APIs
 * [SimpleW](https://stratdev3.github.io/SimpleW) - Web server Library in .NET Core. Powerfully Simple, Blazingly Fast and Build-in components (API REST, JWT, Websockets, self-serialization, Opentelemetry).
 
 ## WebSocket
@@ -1127,11 +1127,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Windows Services
 
-* [Servy](https://github.com/aelassas/servy) ⭐ 1,990 | 🐛 698 | 🌐 C# | 📅 2026-08-29 - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
+* [Servy](https://github.com/aelassas/servy) ⭐ 1,990 | 🐛 686 | 🌐 C# | 📅 2026-08-30 - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 
 ## WPF
 
-* [WPF](https://github.com/dotnet/wpf) ⭐ 7,719 | 🐛 1,670 | 🌐 C# | 📅 2026-08-29 - WPF is a .NET Core UI framework for building Windows desktop applications.
+* [WPF](https://github.com/dotnet/wpf) ⭐ 7,721 | 🐛 1,672 | 🌐 C# | 📅 2026-08-30 - WPF is a .NET Core UI framework for building Windows desktop applications.
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) ⭐ 4,165 | 🐛 783 | 🌐 C# | 📅 2026-06-11 - A rich collection of controls, components and utilities for creating WPF applications
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) ⭐ 908 | 🐛 7 | 🌐 C# | 📅 2026-03-16 - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) ⭐ 148 | 🐛 8 | 🌐 C# | 📅 2026-06-04 - Listen Global keyboard / mouse events. simple to use. for Windows UI applications (WPF, MAUI, Avalonia)
@@ -1147,7 +1147,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Source Generator
 
 * [Vogan](https://github.com/SteveDunn/Vogen) ⭐ 1,492 | 🐛 55 | 🌐 C# | 📅 2026-08-24 - A value object generator with analizers.
-* [Dunet](https://github.com/domn1995/dunet) ⭐ 883 | 🐛 7 | 🌐 C# | 📅 2026-08-20 - A simple source generator for discriminated unions in C#.
+* [Dunet](https://github.com/domn1995/dunet) ⭐ 882 | 🐛 7 | 🌐 C# | 📅 2026-08-20 - A simple source generator for discriminated unions in C#.
 * [CodegenCS](https://github.com/Drizin/CodegenCS) ⭐ 307 | 🐛 4 | 🌐 C# | 📅 2024-09-23 - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
 * [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) ⭐ 198 | 🐛 16 | 🌐 C# | 📅 2025-04-01 - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 * [M31.FluentAPI](https://github.com/m31coding/M31.FluentAPI) ⭐ 141 | 🐛 0 | 🌐 C# | 📅 2026-04-21 - Effortlessly generate fluent APIs for your C# classes.
@@ -1155,14 +1155,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 # Other Lists
 
-* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,372 | 🐛 212 | 🌐 C# | 📅 2026-02-27 - A collection of awesome .NET core libraries, tools, frameworks and software
-* [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) ⭐ 15,101 | 🐛 268 | 🌐 HTML | 📅 2025-09-23 - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
-* [awesome-ddd](https://github.com/heynickc/awesome-ddd) ⭐ 12,347 | 🐛 1 | 📅 2026-08-26 - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,374 | 🐛 212 | 🌐 C# | 📅 2026-02-27 - A collection of awesome .NET core libraries, tools, frameworks and software
+* [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) ⭐ 15,102 | 🐛 268 | 🌐 HTML | 📅 2025-09-23 - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
+* [awesome-ddd](https://github.com/heynickc/awesome-ddd) ⭐ 12,349 | 🐛 1 | 📅 2026-08-26 - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity) ⚠️ Archived - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) ⭐ 3,279 | 🐛 7 | 📅 2026-04-27 - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) ⭐ 3,079 | 🐛 6 | 📅 2024-10-31 - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) ⚠️ Archived - A collection of interesting libraries/tools for Xamarin mobile projects.
-* [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) ⭐ 1,022 | 🐛 15 | 🌐 C# | 📅 2024-05-16 - Game examples implemented in .NET console applications.
+* [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) ⭐ 1,023 | 🐛 15 | 🌐 C# | 📅 2024-05-16 - Game examples implemented in .NET console applications.
 * [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) ⭐ 827 | 🐛 1 | 📅 2024-03-04 - Open Source .NET libraries that make your life easier
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) ⭐ 735 | 🐛 15 | 📅 2024-01-16 - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 * [awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) ⭐ 642 | 🐛 1 | 📅 2026-05-18 - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
@@ -1180,4 +1180,4 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
